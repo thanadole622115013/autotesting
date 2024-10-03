@@ -1,4 +1,4 @@
-# autotesting
+# Automation Test
 Instructions
 
 System requirements
